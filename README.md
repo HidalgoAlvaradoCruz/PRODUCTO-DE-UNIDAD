@@ -76,9 +76,9 @@ Para poder representar los números o caracteres con este dispositivo solo basta
 
 **5.DESARROLLO Y SIMLACIÓN**
 
-**Enunciado #1**
+**ENUNCIADO #1**
 
-Las normas de seguridad de los modernos aviones exigen que, para señales de vital importancia para la seguridad del aparato, los circuitos deben estar triplicados para que el fallo de uno de ellos no produzca una catástrofe. En caso de que los tres circuitos no produzcan la misma salida, ésta se escogerá mediante votación. Diseñe el circuito "votador" que ha de utilizarse para obtener como resultado el valor mayoritario de las tres entradas.
+**Las normas de seguridad de los modernos aviones exigen que, para señales de vital importancia para la seguridad del aparato, los circuitos deben estar triplicados para que el fallo de uno de ellos no produzca una catástrofe. En caso de que los tres circuitos no produzcan la misma salida, ésta se escogerá mediante votación. Diseñe el circuito "votador" que ha de utilizarse para obtener como resultado el valor mayoritario de las tres entradas.**
 
 El proceso de votación consiste en tomar el valor mayoritario de las entradas.
 De esta forma, la salida, f, del circuito tendrá la siguiente codificación :
@@ -115,9 +115,30 @@ Simulación circuito votador
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img25.png)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img27.png)
 
-**Enunciado #2**
+**ENUNCIADO #2**
 
-**Enunciado #3**
+**El horario laboral de una factoría es de 8 horas diarias, divididas en tres turnos: de 8 a 11 (primer turno), de 11 a 13 (segundo turno), de 13 a 16 (descanso) y de 16 a 19 (tercer turno). Se pretende diseñar un circuito que tenga como entradas la representación binaria de la hora actual menos ocho y que proporcione a la salida el número de turno que está trabajando (si procede) o "0" si es hora de descanso.
+Diseñe un módulo adicional que permita visualizar en un display de 7 segmentos el número del turno que corresponda.**
+
+Anális:
+
+Para implementar este circuito consideramos que cada turno se desarrolla en un lapso de tiempo específico considerando la hora laboral como: 8 a 9, 9 a 10, 10 a 11, ……………18 a 19 quedando un total de 11 horas posibles.
+En un primer análisis la HORA ACTUAL son números decimales del 8 al 18 que al momento de cumplir la condición impuesta por el enunciado (HORA ACTUAL – 8), queda un intervalo del 0 al 10, finalmente las ENTRADAS que se van a utilizar para el desarrollo del problema es la representación en binario del último intervalo ( 0 al 10).
+
+Ejemplo: 
+
+Hora actual: 8 		Hora actual – 8:    8 – 8 = 0	Representación binaria: 0 0 0 0
+
+Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 0 1
+
+ Así sucesivamente hasta completar el intervalo, para la representación binaria del 10 se necesita una entrada de 4 bits
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img29.jpeg)
+
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img30.jpeg)
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img31.jpeg)
+**ENUNCIADO #3**
 
 **6.LISTA DE COMPONENTES**
 
