@@ -165,13 +165,19 @@ En conclusión:
 
 **12.RECOMENDACIONES**
 
-Es de vital importancia conocer el funcionamiento de un circuito votador y las puertas lógicas básicas que se podrían utilizar.
+•	Es de vital importancia conocer el funcionamiento de un circuito votador y las puertas lógicas básicas que se podrían utilizar.
 
 **13.CRONOGRAMA**
 
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img28.jpeg)
 
 **14.BIBLIOGRAFÍA**
+
+[4] Gonzales,Erick,(2018). Display 7 Segmentos ánodo y cátodo común.Recuperado de:
+https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
+
+[5]Posada.Fernando,(2019). Creando aplicaciones para móviles Android con MIT App Inventor 2. DOI (web) 104438/2695-4176_OTE_2019_847-19-121-5. https://intef.es/wp-content/uploads/2019/03/MIT-App-Inventor-2.pdf
+
 
 **15.ANEXOS**
 
