@@ -135,7 +135,7 @@ Simulación circuito votador
 
 **13.CRONOGRAMA**
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img28.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img28.jpeg)
 
 **14.BIBLIOGRAFÍA**
 
