@@ -171,3 +171,7 @@ Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 
 **15.1.MANUAL DE USUARIO ENFOCADO EN EL E UNUNCIADO TRES**
 
 **15.2.HOJAS TÉCNICAS**
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img32.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img33.png)
