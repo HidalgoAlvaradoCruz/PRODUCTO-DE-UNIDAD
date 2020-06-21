@@ -145,9 +145,9 @@ Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 
  
 **ENUNCIADO #3**
 
-**6.LISTA DE COMPONENTES**
+**6.LISTA DE COMPONENTES ENFOCADO EN EL ENUNCIADO DOS**
 
-**7.MAPA DE VARIABLES**
+**7.MAPA DE VARIABLES ENFOCADO EN EL ENUNCIADO DOS**
 
 **6.EXPLICACIÓN DEL CÓDIGO FUENTE ENFOCADO EN EL ENUNCIADO DOS**
 
@@ -157,8 +157,15 @@ Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 
 
 **11.CONCLUSIONES**
 
+En conclusión:
+
+•	El circuito diseñado utilizado como norma de seguridad de aviones modernos tiene tres señales de entrada que son las salidas triplicadas así si un circuito llegara a fallar quedarían dos en buen estado, evitándose una catástrofe.
+
+
 
 **12.RECOMENDACIONES**
+
+Es de vital importancia conocer el funcionamiento de un circuito votador y las puertas lógicas básicas que se podrían utilizar.
 
 **13.CRONOGRAMA**
 
