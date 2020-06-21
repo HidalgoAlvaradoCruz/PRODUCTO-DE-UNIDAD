@@ -114,3 +114,33 @@ Simulación circuito votador
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img24.png)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img25.png)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img27.png)
+
+**Enunciado #2**
+
+**Enunciado #3**
+
+**6.LISTA DE COMPONENTES**
+
+**7.MAPA DE VARIABLES**
+
+**6.EXPLICACIÓN DEL CÓDIGO FUENTE ENFOCADO EN EL ENUNCIADO TRES**
+
+**9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
+
+**10.APORTACIONES**
+
+**11.CONCLUSIONES**
+
+**12.RECOMENDACIONES**
+
+**13.CRONOGRAMA**
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img28.png)
+
+**14.BIBLIOGRAFÍA**
+
+**15.ANEXOS**
+
+**15.1.MANUAL DE USUARIO ENFOCADO EN EL E UNUNCIADO TRES**
+
+**15.2.HOJAS TÉCNICAS**
