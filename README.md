@@ -28,6 +28,7 @@ Realizar el diseño de diferentes circuitos combinacionales con aplicaciones.
 
 **4.MARCO TEÓRICO**
 
+**Circuito Combinacional**
 Un circuito combinacional es un circuito electrónico, en el que el valor de sus salidas en un determinado instante, dependen del valor de las entradas en ese mismo instante. Es decir, es un circuito que carece de memoria. Trabajan con números, y con la tecnología con la que están realizados, estos números están representados en binario.
 El siguiente circuito:
 
