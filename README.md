@@ -80,6 +80,8 @@ Para poder representar los números o caracteres con este dispositivo solo basta
 
 **Las normas de seguridad de los modernos aviones exigen que, para señales de vital importancia para la seguridad del aparato, los circuitos deben estar triplicados para que el fallo de uno de ellos no produzca una catástrofe. En caso de que los tres circuitos no produzcan la misma salida, ésta se escogerá mediante votación. Diseñe el circuito "votador" que ha de utilizarse para obtener como resultado el valor mayoritario de las tres entradas.**
 
+Análisis:
+
 El proceso de votación consiste en tomar el valor mayoritario de las entradas.
 De esta forma, la salida, f, del circuito tendrá la siguiente codificación :
 
@@ -96,7 +98,7 @@ El circuito votador tiene tres señales de entrada : a,b y c, que son las salida
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img9.jpg)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img10.jpeg)
 
-Simulación circuito votador
+Simulación y Diagramas
 
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img11.png)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img12.png)
@@ -138,19 +140,23 @@ Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 
  ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img30.jpeg)
  
  ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img31.jpeg)
+ 
+ Simulación y Diagramas
+ 
 **ENUNCIADO #3**
 
 **6.LISTA DE COMPONENTES**
 
 **7.MAPA DE VARIABLES**
 
-**6.EXPLICACIÓN DEL CÓDIGO FUENTE ENFOCADO EN EL ENUNCIADO TRES**
+**6.EXPLICACIÓN DEL CÓDIGO FUENTE ENFOCADO EN EL ENUNCIADO DOS**
 
 **9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
 
 **10.APORTACIONES**
 
 **11.CONCLUSIONES**
+
 
 **12.RECOMENDACIONES**
 
