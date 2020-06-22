@@ -196,10 +196,42 @@ Cumple la condición de L=1 ; si A=B
 **6.LISTA DE COMPONENTES ENFOCADO EN EL ENUNCIADO DOS**
 
 **7.MAPA DE VARIABLES ENFOCADO EN EL ENUNCIADO DOS**
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img56.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img57.jpeg)
 
 **6.EXPLICACIÓN DEL CÓDIGO FUENTE ENFOCADO EN EL ENUNCIADO DOS**
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img51.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img52.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img53.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img54.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img55.jpeg)
 
 **9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
+
+Tener una cuenta de Google activa es esencial, debido a que la verificación y creación de la cuenta en APP INVENTOR y TINKERCAD será a partir de esta. 
+
+Es esencial tener una conexión estable a internet, debido que será necesario para la creación del programa en app inventor. 
+
+Los sistemas operativos de los computadores en los cuales funciona app inventor son: 
+
+•	Macintosh (con procesador Intel): Mac OS X 10.5, 10.6
+
+•	Windows: Windows XP, Windows Vista, Windows 7
+
+•	GNU / Linux: Ubuntu 8 +, 5 + Debian
+
+
+Tener un computador con todas las actualizaciones necesarias, como también nuestro navegador deberá tener las siguientes especificaciones: 
+
+•	Mozilla Firefox 3.6 o superior
+
+•	Apple Safari 5.0 o superior
+
+•	Google Chrome 4.0 o superior
+
+La aplicación creada con App Inventor puede funcionar en cualquier teléfono Android. El entorno de desarrollo y software de instalación se apoya directamente a los teléfonos siguientes: Los dispositivos adicionales requieren los controladores de Windows proporcionados por el fabricante del hardware.
+
+Para realizar los test de nuestro programa en el móvil, será necesario descargarnos una app desde play store para Android. El nombre de la app es “MIT AI2 Companion”
 
 **10.APORTACIONES**
 
@@ -248,8 +280,43 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 
 **15.ANEXOS**
 
-**15.1.MANUAL DE USUARIO ENFOCADO EN EL E UNUNCIADO TRES**
+**15.1.MANUAL DE USUARIO ENFOCADO EN EL E UNUNCIADO DOS*
 
+1.	Para ejecutar la aplicación Turnos_Factoria, primero se debe instalar el apk MIT AI2 Companion en nuestro Smartphone con sistema ANDROID 6.0 en adelante, la descarga del apk  se la realiza directamente del Play Store o en el enlace:	  https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=es
+
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/86.png)
+
+2.	Desde un ordenador dirigirse al sitio web de App Inventor seleccionamos el proyecto Turnos_factoria en el enlace: http://ai2.appinventor.mit.edu/?locale=es_ES#4887093323366400
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/87.png)
+
+3.	Se puede visualizar la interfaz gráfica del proyecto, dar clic sobre la pestaña Conectar / Al Companion 
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/88.png)
+
+4.	Aparece un código QR como paso siguiente se debe abrir la aplicación MIT App Inventor 2 en el celular y escanear  dicho código dando clic en la opción “scan QR code” y esperamos que se vincule nuestro dispositivo con el sitio web.
+
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/89.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/90.png)
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/91.png)
+
+5.	Automáticamente la aplicación se abre en el celular, en el campo “ingrese el código respectivo para realizar una consulta” se puede ingresar “0” o “1”
+
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/92.png)
+
+6.	Una vez ingresado el valor deseado le damos clic en CONSULTAR TURNO, se puede observar que la aplicación nuestra tanto la HORA ACTUAL como la (HORA ACTUAL – 8)
+
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/93.png)
+
+7.	Finalmente, para ingresar un nuevo número, se debe dar clic en el botón “NUEVO TURNO” caso contrario dar clic en la opción “SALIR” para cerrar la aplicación. 
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/94.png)
 **15.2.HOJAS TÉCNICAS**
 
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img32.png)
