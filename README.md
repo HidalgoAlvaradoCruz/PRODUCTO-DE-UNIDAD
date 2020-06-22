@@ -281,12 +281,15 @@ En conclusión:
 
 •	 Dado un problema que conlleva realizar una o varias acciones se lo puede resolver fragmentándolo en una o varias funciones lógicas implementadas en un circuito combinacional, estas funciones por lo general son expresiones extensas según el problema o el número de entradas o salidas que se necesite, a estas expresiones se las pueden simplificar en una expresión más trabajada por medio de aplicar los teoremas del Álgebra Booleana o los Mapas de Karnaugth , siendo este último el más óptimo para simplificar expresiones extensas, basado en la resolución del ejercicio número 2 se puede llegar a una función simplificada solo aplicando los teoremas del Álgebra Boleana 
 
+•	Se comprendió con claridad el funcionamiento de las compuertas lógicas y su implementación en los diferentes integrados. También se analizó las diferencias al simplificar los términos de forma manual y mediante los mapas de Karnaugh, observando que al usar los mapas de Karnaugh, es mucho más efectivo y rápido de implementar. En general sirvió para comprender el funcionamiento básicos de los aparatos electrónicos, como también para manejar de mejor manera el Álgebra de Boole.
 
 **12.RECOMENDACIONES**
 
 •	Es de vital importancia conocer el funcionamiento de un circuito votador y las puertas lógicas básicas que se podrían utilizar.
 
 •	Al momento de plantear las variables del problema no generar variables innecesarias ya que lo único que se va a conseguir con ello es generar una función más extensa de lo realmente necesario, una vez establecida la tabla el método más recomendable para hallar la función es fijarse en la cantidad de “0” y “1” que tiene la o las salidas de esta forma se puede implementar min-términos si la cantidad de “1” es menor y máx-términos si la cantidad de “0” es menor, esto facilitará en gran medida los cálculos posteriores.
+
+•	Es importante tener claro el diseño eléctrico antes de iniciar su implementación, recordando que es necesario comprobar que los dispositivos electrónicos,en este caso los integrados, se encuentren en buen estado. También es importante tener claro los lugares donde serán necesarias las resistencias de protección.
 
 **13.CRONOGRAMA**
 
