@@ -251,11 +251,14 @@ En conclusión:
 
 •	El circuito diseñado utilizado como norma de seguridad de aviones modernos tiene tres señales de entrada que son las salidas triplicadas así si un circuito llegara a fallar quedarían dos en buen estado, evitándose una catástrofe.
 
+•	 Dado un problema que conlleva realizar una o varias acciones se lo puede resolver fragmentándolo en una o varias funciones lógicas implementadas en un circuito combinacional, estas funciones por lo general son expresiones extensas según el problema o el número de entradas o salidas que se necesite, a estas expresiones se las pueden simplificar en una expresión más trabajada por medio de aplicar los teoremas del Álgebra Booleana o los Mapas de Karnaugth , siendo este último el más óptimo para simplificar expresiones extensas, basado en la resolución del ejercicio número 2 se puede llegar a una función simplificada solo aplicando los teoremas del Álgebra Boleana 
 
 
 **12.RECOMENDACIONES**
 
 •	Es de vital importancia conocer el funcionamiento de un circuito votador y las puertas lógicas básicas que se podrían utilizar.
+
+•	Al momento de plantear las variables del problema no generar variables innecesarias ya que lo único que se va a conseguir con ello es generar una función más extensa de lo realmente necesario, una vez establecida la tabla el método más recomendable para hallar la función es fijarse en la cantidad de “0” y “1” que tiene la o las salidas de esta forma se puede implementar min-términos si la cantidad de “1” es menor y máx-términos si la cantidad de “0” es menor, esto facilitará en gran medida los cálculos posteriores.
 
 **13.CRONOGRAMA**
 
@@ -317,8 +320,9 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 7.	Finalmente, para ingresar un nuevo número, se debe dar clic en el botón “NUEVO TURNO” caso contrario dar clic en la opción “SALIR” para cerrar la aplicación. 
 
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/94.jpg)
+
 **15.2.HOJAS TÉCNICAS**
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img32.jpg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img32.png)
 
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img33.png)
