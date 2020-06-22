@@ -6,7 +6,7 @@ Se desconoce el funcionamiento, diseño y conexión de un circuito votador, un c
 
 •	¿Cómo se diseña un circuito votador?
 
-•	¿Cómo se diseña un circuito coparador?
+•	¿Cómo se diseña un circuito comparador?
 
 •	¿Cómo se diseña un circuito que tenga como entradas la representación binaria de la hora actual menos ocho?
 
