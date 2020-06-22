@@ -155,6 +155,8 @@ Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 
  
  Simulación y Diagramas
  
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img50.jpeg)
+ 
 **ENUNCIADO #3**
 
 **Se pretende diseñar un circuito comparador de 2 números de 2 bits, A = (a1, a0) y B = (b1, b0 ). Dicho circuito deberá tener tres salidas M, l, m, de tal forma que:
