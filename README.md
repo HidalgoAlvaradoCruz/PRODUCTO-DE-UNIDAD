@@ -285,29 +285,29 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 1.	Para ejecutar la aplicación Turnos_Factoria, primero se debe instalar el apk MIT AI2 Companion en nuestro Smartphone con sistema ANDROID 6.0 en adelante, la descarga del apk  se la realiza directamente del Play Store o en el enlace:	  https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=es
 
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/86.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/86.jpg)
 
 2.	Desde un ordenador dirigirse al sitio web de App Inventor seleccionamos el proyecto Turnos_factoria en el enlace: http://ai2.appinventor.mit.edu/?locale=es_ES#4887093323366400
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/87.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/87.jpg)
 
 3.	Se puede visualizar la interfaz gráfica del proyecto, dar clic sobre la pestaña Conectar / Al Companion 
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/88.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/88.jpg)
 
 4.	Aparece un código QR como paso siguiente se debe abrir la aplicación MIT App Inventor 2 en el celular y escanear  dicho código dando clic en la opción “scan QR code” y esperamos que se vincule nuestro dispositivo con el sitio web.
 
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/89.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/89.jpg)
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/90.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/90.jpg)
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/91.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/91.jpg)
 
 5.	Automáticamente la aplicación se abre en el celular, en el campo “ingrese el código respectivo para realizar una consulta” se puede ingresar “0” o “1”
 
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/92.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/92.jpg)
 
 6.	Una vez ingresado el valor deseado le damos clic en CONSULTAR TURNO, se puede observar que la aplicación nuestra tanto la HORA ACTUAL como la (HORA ACTUAL – 8)
 
@@ -316,9 +316,9 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 
 7.	Finalmente, para ingresar un nuevo número, se debe dar clic en el botón “NUEVO TURNO” caso contrario dar clic en la opción “SALIR” para cerrar la aplicación. 
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/94.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/94.jpg)
 **15.2.HOJAS TÉCNICAS**
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img32.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img32.jpg)
 
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img33.png)
