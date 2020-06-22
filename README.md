@@ -155,7 +155,37 @@ Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 
  
  Simulación y Diagramas
  
- ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img50.jpeg)
+ Primer turno 
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img58.png)
+ 
+ Segundo turno  
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img59.png)
+ 
+ Descanso 
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img60.png)
+ 
+ Tercer turno 
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img61.png)
+ 
+ Primer turno 
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img62.png)
+ 
+ Segundo turno 
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img63.png)
+ 
+ Descanso 
+ 
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img64.png)
+ 
+  Tercer turno 
+  
+ ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img65.jpeg)
  
 **ENUNCIADO #3**
 
@@ -192,8 +222,6 @@ Cumple la condición de m=1 ; si A<B
 Cumple la condición de L=1 ; si A=B 
 
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img41.jpeg)
-
-**6.LISTA DE COMPONENTES ENFOCADO EN EL ENUNCIADO DOS**
 
 **7.MAPA DE VARIABLES ENFOCADO EN EL ENUNCIADO DOS**
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img56.jpeg)
