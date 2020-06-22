@@ -103,8 +103,7 @@ De esta forma, la salida, f, del circuito tendrá la siguiente codificación :
 
 El circuito votador tiene tres señales de entrada : a,b y c, que son las salidas de los circuitos triplicados .
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img5.jpg)
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img6.jpg)
+
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img7.png)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img8.png)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img9.jpg)
