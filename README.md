@@ -145,6 +145,40 @@ Hora actual: 9 		Hora actual – 8:    9 – 8 = 1	Representación binaria: 0 0 
  
 **ENUNCIADO #3**
 
+**Se pretende diseñar un circuito comparador de 2 números de 2 bits, A = (a1, a0) y B = (b1, b0 ). Dicho circuito deberá tener tres salidas M, l, m, de tal forma que:
+ M = 1 si A>B 
+L= 1 si A=B 
+m = 1 si A < B 
+Diseñe exclusivamente con puertas NOR.** 
+
+Análisis:
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img34.jpeg)
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img35.jpeg)
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img36.jpeg)
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img37.jpeg)
+
+
+Simulación y Diagramas
+
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img38.jpeg)
+
+Cumple la condición de M=1 ; si A˃B
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img39.jpeg)
+
+Cumple la condición de m=1 ; si A<B 
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img40.jpeg)
+
+Cumple la condición de L=1 ; si A=B 
+
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img41.jpeg)
+
 **6.LISTA DE COMPONENTES ENFOCADO EN EL ENUNCIADO DOS**
 
 **7.MAPA DE VARIABLES ENFOCADO EN EL ENUNCIADO DOS**
