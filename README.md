@@ -200,6 +200,9 @@ Cumple la condición de L=1 ; si A=B
 **9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
 
 **10.APORTACIONES**
+
+Implementación en físico del circuito votador.
+
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img42.jpeg)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img43.jpeg)
 ![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img44.jpeg)
