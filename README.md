@@ -312,7 +312,7 @@ https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 6.	Una vez ingresado el valor deseado le damos clic en CONSULTAR TURNO, se puede observar que la aplicación nuestra tanto la HORA ACTUAL como la (HORA ACTUAL – 8)
 
 
-![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/93.png)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/93.jpg)
 
 7.	Finalmente, para ingresar un nuevo número, se debe dar clic en el botón “NUEVO TURNO” caso contrario dar clic en la opción “SALIR” para cerrar la aplicación. 
 
