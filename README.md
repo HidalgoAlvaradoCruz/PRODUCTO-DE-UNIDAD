@@ -26,6 +26,18 @@ Realizar el diseño de diferentes circuitos combinacionales con aplicaciones.
 
 **3.ESTADO DEL ARTE**
 
+En 2009, Zhaohui Gan, Gang Shi y Tao Shang de la Facultad de Ciencias de la Información e Ingeniería, Universidad de Ciencia y Tecnología de Wuhan realizaron un estudio implementando circuitos lógicos combinacionales en el diseño automático de la programación genética (GP). GP usando una estructura de árbol o una estructura lineal en lugar de cadenas para representar un circuito lógico combinacional. En el método GP, los nodos hoja y los nodos padres representan señales de entrada y puertas lógicas en circuitos, respectivamente. Los circuitos también evolucionan con algoritmos de selección clonal basado en gráficos (Zhaohui Gan, 2009, p.1) [1].
+Alidoust Zahra y Basiri Mohammad, del Departamento de ingeniería informática Departamento de Ingeniería Universidad de Isfahan y de la Universidad Shahrekord, Irán en 2017 centraron su estudio en mejorar el algoritmo genético a través de la agrupación para el diseño de circuitos lógicos combinacionales, los diseños evolutivos son buenas alternativas para el diseño de circuitos lógicos pero tienen un inconveniente común, a saber, la alta aleatoriedad de su método cruzado. Para superar este inconveniente el método propuesto, se adopta el algoritmo k-means para optimizar el algoritmo genético con el fin de aumentar la eficiencia y reducir el costo de producción. Los criterios de optimización de los elementos del circuito, como el recuento de puertas de los transistores y el consumo de energía (Zahra Alidousti,2017, p.1) [2].
+
+Mukherjee, B. y Dandapat, Dept, Jadavpur University Kolkata, en el Simposio internacional 2010 presentaron un estudio sobre el diseño de sistemas electrónicos mediante el método combinacional cíclico para VLSI de baja potencia. El objetivo principal del circuito cíclico es introducir retroalimentación estructural y evitar la retroalimentación lógica para obtener una salida primaria combinatoria. El estudio del circuito cíclico incluye análisis funcional, es decir, para determinar qué valores aparecerán, el análisis de tiempo que determina cuándo aparecerán estos valores y el área. El objetivo del estudio es diseñar y verificar diferentes circuitos combinacionales en un método cíclico mediante la optimización del área, la potencia y el retraso.
+ (L Mukherjee, B. y Dandapat, 2010, p.1) [3]. 
+ 
+Youjun Xu, Dantong Ouyang1, Yuxin Ye, y Jialiang He, Facultad de Informática y Tecnología Jilin University, Changchun, China, en su trabajo de investigación basado en la solución de problemas SAT con álgebra booleana expusieron que en las últimas décadas, se proponen muchos métodos de SAT, basado en la resolución, por medio de la regla de extensión, en el estudio de la regla de extensión, encontramos que el problema SAT se puede resolver con algoritmos de configuración de golpe. Si podemos encontrar un conjunto de aciertos de un conjunto de cláusulas, y si no hay ningún par de literales complementarios en el conjunto de aciertos, el conjunto de cláusulas es satisfactoria. El algoritmo BHS basado en el álgebra booleana propuesto por Jiang es un algoritmo de conjunto de golpes eficiente.  (Xu, Y., Ouyang, D., Ye, 2010, p.1) [4]. 
+
+Ruanqianqian Huang y Franklyn Turbak del Wellesley College, Department of Computer Science en 2019 implementaron un diseño para la conversión bidireccional entre bloques y texto para App Inventor mediante fragmentos de código visual que evitan errores semánticos sintácticos y estáticos y reducen la carga cognitiva para este fin diseñaron un sistema de modo dual para MIT App Inventor que admite representaciones textuales para bloques, espacios de trabajo, pantallas y proyectos completos que permiten la conversión bidireccional entre bloques isomorfos y representaciones de texto, permitiendo que individuos de varios niveles de experiencia en programación se relacionen con la interfaz (R. Huang,F. Turbak,2019)[5].
+
+Para el Producto de Unidad presente, se utilizó una estructura de árbol o una estructura lineal en lugar de cadenas para representar un circuito lógico combinacional (Zhaohui Gan, 2009, p.1), para la optimización de los elementos del circuito, como el recuento de puertas de los transistores y el consumo de energía se utilizó parte de los postulados empleados en algoritmo genético con circuitos combinacionles (Zahra Alidousti,2017, p.1)  el entorno de programación para el aplicativo se hizo sobre la base de MIT App Inventor, el sistema tiene la capacidad de proyectar un número decimal de salida  en la pantalla del dispositivo android simulando la proyección de un display de 7 segmentos (R. Huang,F. Turbak,2019).
+
 **4.MARCO TEÓRICO**
 
 **Circuito Combinacional**
@@ -188,7 +200,14 @@ Cumple la condición de L=1 ; si A=B
 **9.DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN**
 
 **10.APORTACIONES**
-
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img42.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img43.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img44.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img45.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img46.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img47.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img48.jpeg)
+![](https://github.com/HidalgoAlvaradoCruz/PRODUCTO-DE-UNIDAD/blob/master/img/img49.jpeg)
 **11.CONCLUSIONES**
 
 En conclusión:
@@ -207,11 +226,20 @@ En conclusión:
 
 **14.BIBLIOGRAFÍA**
 
-[4] Gonzales,Erick,(2018). Display 7 Segmentos ánodo y cátodo común.Recuperado de:
+[1] Gan, Z., Shi, G. y Shang, T. (2009). La síntesis automática de circuitos lógicos combinacionales con algoritmo de selección clonal basado en gráficos. 2009 Conferencia Internacional sobre Inteligencia Artificial e Inteligencia Computacional. doi: 10.1109 / aici.2009.267 
+
+[2] Alidousti, Z. y Basiri, ME (2017). CGACLC: Mejora del algoritmo genético a través de la agrupación para el diseño de circuitos lógicos combinacionales. 2017 Tercera Conferencia Internacional sobre Reconocimiento de Patrones y Análisis de Imágenes (IPRIA). doi: 10.1109 / pria.2017.7983062 
+
+[3] Mukherjee, B. y Dandapat, AK (2010). Diseño de circuitos combinacionales mediante el método combinacional cíclico para VLSI de baja potencia. Simposio internacional 2010 sobre diseño de sistemas electrónicos. doi: 10.1109 / ised.2010.29 
+
+[4] Xu, Y., Ouyang, D., Ye, Y. y He, J. (2010). Solución de problemas SAT con álgebra booleana. Quinta Conferencia Internacional 2010 sobre la frontera de la informática y la tecnología. doi: 10.1109 / fcst.2010.13 
+
+[5] Huang, R. y Turbak, F. (2019). Un diseño para la conversión bidireccional entre bloques y texto para App Inventor. 2019 IEEE Blocks and Beyond Workshop (B&B). doi: 10.1109 / bb48857.2019.8941197 
+
+[6] Gonzales,Erick,(2018). Display 7 Segmentos ánodo y cátodo común.Recuperado de:
 https://hetpro-store.com/TUTORIALES/display-7-segmentos-anodo-catodo-comun/
 
-[5]Posada.Fernando,(2019). Creando aplicaciones para móviles Android con MIT App Inventor 2. DOI (web) 104438/2695-4176_OTE_2019_847-19-121-5. https://intef.es/wp-content/uploads/2019/03/MIT-App-Inventor-2.pdf
-
+[7]Posada.Fernando,(2019). Creando aplicaciones para móviles Android con MIT App Inventor 2. DOI (web) 104438/2695-4176_OTE_2019_847-19-121-5. https://intef.es/wp-content/uploads/2019/03/MIT-App-Inventor-2.pdf
 
 **15.ANEXOS**
 
